@@ -1,0 +1,10 @@
+.idea/
+.gradio/
+__pycache__/
+
+data/
+
+reppen
+
+*.pth
+*.pt
